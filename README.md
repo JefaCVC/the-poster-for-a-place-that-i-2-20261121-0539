@@ -1,7 +1,10 @@
 # Velmara
 
-A travel poster for a place that does not exist. Entry for the make.fun
-competition **the-poster-for-a-place-that-i-2-20261121-0539**.
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/JefaCVC/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/JefaCVC/the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+
+A travel poster for a place that does not exist. Entry for the [make.fun competition](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539) **the-poster-for-a-place-that-i-2-20261121-0539**.
 
 Velmara is a white cliff town above a teal lagoon, watched over by a
 lighthouse on a sea stack. The poster catches it at the end of the day:
